@@ -9,7 +9,7 @@ const fs = require('fs');
 const csv = require('csv-parser');
 const Obituary = require('../models/Obituary');
 
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb+srv://shahzadrasool443_db_user:KjWPfl2MBNeMvU4K@cluster-mern.o0wfyvn.mongodb.net/?appName=Cluster-mern';
+const MONGODB_URI = process.env.MONGODB_URI;
 
 mongoose.connect(MONGODB_URI, {
     useNewUrlParser: true,

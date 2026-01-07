@@ -77,7 +77,7 @@ const products = [
 
 async function seedProducts() {
     try {
-        await mongoose.connect('mongodb+srv://shahzadrasool443_db_user:KjWPfl2MBNeMvU4K@cluster-mern.o0wfyvn.mongodb.net/?appName=Cluster-mern');
+        await mongoose.connect(process.env.MONGO_URI);
         await Product.deleteMany({});
         await Product.insertMany(products);
         console.log('✅ Products seeded successfully');

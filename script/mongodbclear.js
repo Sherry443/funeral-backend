@@ -11,7 +11,7 @@ const mongoose = require('mongoose');
 const Obituary = require('../models/obituary'); // Adjust path to your obituary model
 
 // Your MongoDB connection string
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb+srv://shahzadrasool443_db_user:KjWPfl2MBNeMvU4K@cluster-mern.o0wfyvn.mongodb.net/?appName=Cluster-mern';
+const MONGODB_URI = process.env.MONGODB_URI;
 
 async function fixObituaryNullFields() {
     try {
