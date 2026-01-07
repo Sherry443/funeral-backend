@@ -1,0 +1,1592 @@
+[
+  {
+    "_id": "6956cd478015332b00933dd5",
+    "firstName": "Jeffrey",
+    "lastName": "Daley",
+    "fullName": "Jeffrey Daley",
+    "birthDate": "1974-07-19T00:00:00.000Z",
+    "deathDate": "2024-04-27T00:00:00.000Z",
+    "location": "in Hettinger",
+    "slug": "jeffrey-daley-6956cd478015332b00933dd5"
+  },
+  {
+    "_id": "6956cd478015332b00933dd4",
+    "firstName": "Kelly",
+    "lastName": "Denny",
+    "fullName": "Kelly Denny",
+    "birthDate": "2025-11-03T00:00:00.000Z",
+    "deathDate": "2025-11-03T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "kelly-denny-6956cd478015332b00933dd4"
+  },
+  {
+    "_id": "6956cd478015332b00933dd3",
+    "firstName": "Robert",
+    "lastName": "Eggers",
+    "fullName": "Robert Eggers",
+    "birthDate": "1936-03-06T00:00:00.000Z",
+    "deathDate": "2025-10-29T00:00:00.000Z",
+    "location": "in Clay Center",
+    "slug": "robert-eggers-6956cd478015332b00933dd3"
+  },
+  {
+    "_id": "6956cd478015332b00933dd2",
+    "firstName": "Kerry",
+    "lastName": "Daly",
+    "fullName": "Kerry Daly",
+    "birthDate": "1959-07-20T00:00:00.000Z",
+    "deathDate": "2025-10-19T00:00:00.000Z",
+    "location": "in Lead",
+    "slug": "kerry-daly-6956cd478015332b00933dd2"
+  },
+  {
+    "_id": "6956cd468015332b00933dd1",
+    "firstName": "Michael",
+    "lastName": "Carter",
+    "fullName": "Michael Carter",
+    "birthDate": "1952-10-11T00:00:00.000Z",
+    "deathDate": "2025-10-16T00:00:00.000Z",
+    "location": "in Rapid",
+    "slug": "michael-carter-6956cd468015332b00933dd1"
+  },
+  {
+    "_id": "6956cd468015332b00933dd0",
+    "firstName": "Darcy",
+    "lastName": "Hart",
+    "fullName": "Darcy Hart",
+    "birthDate": "1957-10-25T00:00:00.000Z",
+    "deathDate": "2025-10-08T00:00:00.000Z",
+    "location": "in Mitchell",
+    "slug": "darcy-hart-6956cd468015332b00933dd0"
+  },
+  {
+    "_id": "6956cd468015332b00933dcf",
+    "firstName": "Ricky",
+    "lastName": "Geiken",
+    "fullName": "Ricky Geiken",
+    "birthDate": "1961-08-10T00:00:00.000Z",
+    "deathDate": "2025-09-15T00:00:00.000Z",
+    "location": "in Iowa",
+    "slug": "ricky-geiken-6956cd468015332b00933dcf"
+  },
+  {
+    "_id": "6956cd468015332b00933dce",
+    "firstName": "James",
+    "lastName": "Arnold",
+    "fullName": "James Arnold",
+    "birthDate": "1957-11-15T00:00:00.000Z",
+    "deathDate": "2025-09-14T00:00:00.000Z",
+    "location": "in Helena Montana",
+    "slug": "james-arnold-6956cd468015332b00933dce"
+  },
+  {
+    "_id": "6956cd468015332b00933dcd",
+    "firstName": "Barry",
+    "lastName": "Bisbee",
+    "fullName": "Barry Bisbee",
+    "birthDate": "1959-09-19T00:00:00.000Z",
+    "deathDate": "2025-09-12T00:00:00.000Z",
+    "location": "in Faulkton",
+    "slug": "barry-bisbee-6956cd468015332b00933dcd"
+  },
+  {
+    "_id": "6956cd468015332b00933dcc",
+    "firstName": "Jean",
+    "lastName": "McMahon",
+    "fullName": "Jean McMahon",
+    "birthDate": "1956-09-30T00:00:00.000Z",
+    "deathDate": "2025-08-29T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "jean-mcmahon-6956cd468015332b00933dcc"
+  },
+  {
+    "_id": "6956cd468015332b00933dcb",
+    "firstName": "Robert",
+    "lastName": "Amerson",
+    "fullName": "Robert Amerson",
+    "birthDate": "1966-09-20T00:00:00.000Z",
+    "deathDate": "2025-08-02T00:00:00.000Z",
+    "location": "of Merdian",
+    "slug": "robert-amerson-6956cd468015332b00933dcb"
+  },
+  {
+    "_id": "6956cd458015332b00933dca",
+    "firstName": "Harry",
+    "lastName": "Niceley, III",
+    "fullName": "Harry Niceley, III",
+    "birthDate": "1948-10-31T00:00:00.000Z",
+    "deathDate": "2025-07-30T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "harry-niceley-iii-6956cd458015332b00933dca"
+  },
+  {
+    "_id": "6956cd458015332b00933dc9",
+    "firstName": "Stephanie",
+    "lastName": "Ellis",
+    "fullName": "Stephanie Ellis",
+    "birthDate": "1963-06-20T00:00:00.000Z",
+    "deathDate": "2025-07-29T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "stephanie-ellis-6956cd458015332b00933dc9"
+  },
+  {
+    "_id": "6956cd458015332b00933dc8",
+    "firstName": "Jeffrey",
+    "lastName": "Vickerman",
+    "fullName": "Jeffrey Vickerman",
+    "birthDate": "1956-02-04T00:00:00.000Z",
+    "deathDate": "2025-07-21T00:00:00.000Z",
+    "location": "in Southern Meade",
+    "slug": "jeffrey-vickerman-6956cd458015332b00933dc8"
+  },
+  {
+    "_id": "6956cd458015332b00933dc7",
+    "firstName": "Albert",
+    "lastName": "Kant",
+    "fullName": "Albert Kant",
+    "birthDate": "1930-11-20T00:00:00.000Z",
+    "deathDate": "2025-07-16T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "albert-kant-6956cd458015332b00933dc7"
+  },
+  {
+    "_id": "6956cd458015332b00933dc6",
+    "firstName": "Robert",
+    "lastName": "Berube",
+    "fullName": "Robert Berube",
+    "birthDate": "1934-12-14T00:00:00.000Z",
+    "deathDate": "2025-07-15T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "robert-berube-6956cd458015332b00933dc6"
+  },
+  {
+    "_id": "6956cd458015332b00933dc5",
+    "firstName": "Devyn",
+    "lastName": "Hendricks",
+    "fullName": "Devyn Hendricks",
+    "birthDate": "1992-08-28T00:00:00.000Z",
+    "deathDate": "2025-07-12T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "devyn-hendricks-6956cd458015332b00933dc5"
+  },
+  {
+    "_id": "6956cd458015332b00933dc4",
+    "firstName": "Elgene",
+    "lastName": "Noisy Hawk",
+    "fullName": "Elgene Noisy Hawk",
+    "birthDate": "1962-05-25T00:00:00.000Z",
+    "deathDate": "2025-07-07T00:00:00.000Z",
+    "location": "in Fort Yates",
+    "slug": "elgene-noisy-hawk-6956cd458015332b00933dc4"
+  },
+  {
+    "_id": "6956cd448015332b00933dc3",
+    "firstName": "Lynette",
+    "lastName": "Vorachek",
+    "fullName": "Lynette Vorachek",
+    "birthDate": "1957-07-11T00:00:00.000Z",
+    "deathDate": "2025-07-02T00:00:00.000Z",
+    "location": "in Sioux Falls",
+    "slug": "lynette-vorachek-6956cd448015332b00933dc3"
+  },
+  {
+    "_id": "6956cd448015332b00933dc2",
+    "firstName": "Heather",
+    "lastName": "Clifton",
+    "fullName": "Heather Clifton",
+    "birthDate": "1965-03-22T00:00:00.000Z",
+    "deathDate": "2025-06-18T00:00:00.000Z",
+    "location": "in Luther Hospital",
+    "slug": "heather-clifton-6956cd448015332b00933dc2"
+  },
+  {
+    "_id": "6956cd448015332b00933dc1",
+    "firstName": "Diane",
+    "lastName": "Reid",
+    "fullName": "Diane Reid",
+    "birthDate": "1948-03-21T00:00:00.000Z",
+    "deathDate": "2025-06-02T00:00:00.000Z",
+    "location": "in Milwaukee",
+    "slug": "diane-reid-6956cd448015332b00933dc1"
+  },
+  {
+    "_id": "6956cd448015332b00933dc0",
+    "firstName": "Paul",
+    "lastName": "Lyttle",
+    "fullName": "Paul Lyttle",
+    "birthDate": "1957-12-15T00:00:00.000Z",
+    "deathDate": "2025-06-02T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "paul-lyttle-6956cd448015332b00933dc0"
+  },
+  {
+    "_id": "6956cd448015332b00933dbf",
+    "firstName": "Wallace",
+    "lastName": "Kehrberg",
+    "fullName": "Wallace Kehrberg",
+    "birthDate": "1940-07-31T00:00:00.000Z",
+    "deathDate": "2025-05-24T00:00:00.000Z",
+    "location": "in Spearfish",
+    "slug": "wallace-kehrberg-6956cd448015332b00933dbf"
+  },
+  {
+    "_id": "6956cd448015332b00933dbe",
+    "firstName": "Kyle",
+    "lastName": "Gray",
+    "fullName": "Kyle Gray",
+    "birthDate": "1963-03-17T00:00:00.000Z",
+    "deathDate": "2025-05-23T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "kyle-gray-6956cd448015332b00933dbe"
+  },
+  {
+    "_id": "6956cd438015332b00933dbd",
+    "firstName": "Hao",
+    "lastName": "Fong",
+    "fullName": "Hao Fong",
+    "birthDate": "1970-05-14T00:00:00.000Z",
+    "deathDate": "2025-05-19T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "hao-fong-6956cd438015332b00933dbd"
+  },
+  {
+    "_id": "6956cd438015332b00933dbc",
+    "firstName": "Joseph",
+    "lastName": "Kerfont",
+    "fullName": "Joseph Kerfont",
+    "birthDate": "1964-11-24T00:00:00.000Z",
+    "deathDate": "2025-04-29T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "joseph-kerfont-6956cd438015332b00933dbc"
+  },
+  {
+    "_id": "6956cd438015332b00933dbb",
+    "firstName": "Kenny",
+    "lastName": "Harvison",
+    "fullName": "Kenny Harvison",
+    "birthDate": "1982-04-20T00:00:00.000Z",
+    "deathDate": "2025-04-24T00:00:00.000Z",
+    "location": "of Black Hawk",
+    "slug": "kenny-harvison-6956cd438015332b00933dbb"
+  },
+  {
+    "_id": "6956cd438015332b00933dba",
+    "firstName": "Maria",
+    "lastName": "Oleson",
+    "fullName": "Maria Oleson",
+    "birthDate": "1942-04-06T00:00:00.000Z",
+    "deathDate": "2025-04-22T00:00:00.000Z",
+    "location": "in Spearfish",
+    "slug": "maria-oleson-6956cd438015332b00933dba"
+  },
+  {
+    "_id": "6956cd438015332b00933db9",
+    "firstName": "Sharon",
+    "lastName": "Warkentine",
+    "fullName": "Sharon Warkentine",
+    "birthDate": "1960-08-02T00:00:00.000Z",
+    "deathDate": "2025-04-18T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "sharon-warkentine-6956cd438015332b00933db9"
+  },
+  {
+    "_id": "6956cd438015332b00933db8",
+    "firstName": "Patricia",
+    "lastName": "Ratzlaff",
+    "fullName": "Patricia Ratzlaff",
+    "birthDate": "1938-10-21T00:00:00.000Z",
+    "deathDate": "2025-04-10T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "patricia-ratzlaff-6956cd438015332b00933db8"
+  },
+  {
+    "_id": "6956cd438015332b00933db7",
+    "firstName": "Michael",
+    "lastName": "Champagne",
+    "fullName": "Michael Champagne",
+    "birthDate": "1974-08-16T00:00:00.000Z",
+    "deathDate": "2025-03-31T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "michael-champagne-6956cd438015332b00933db7"
+  },
+  {
+    "_id": "6956cd428015332b00933db6",
+    "firstName": "Eileen",
+    "lastName": "Bolhouse",
+    "fullName": "Eileen Bolhouse",
+    "birthDate": "1936-04-24T00:00:00.000Z",
+    "deathDate": "2025-03-17T00:00:00.000Z",
+    "location": "in Olivet",
+    "slug": "eileen-bolhouse-6956cd428015332b00933db6"
+  },
+  {
+    "_id": "6956cd428015332b00933db5",
+    "firstName": "Jon",
+    "lastName": "Boe",
+    "fullName": "Jon Boe",
+    "birthDate": "1955-08-11T00:00:00.000Z",
+    "deathDate": "2025-03-17T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "jon-boe-6956cd428015332b00933db5"
+  },
+  {
+    "_id": "6956cd428015332b00933db4",
+    "firstName": "Bernard",
+    "lastName": "Smoot, III",
+    "fullName": "Bernard Smoot, III",
+    "birthDate": "1966-06-25T00:00:00.000Z",
+    "deathDate": "2025-03-11T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "bernard-smoot-iii-6956cd428015332b00933db4"
+  },
+  {
+    "_id": "6956cd428015332b00933db3",
+    "firstName": "Robert",
+    "lastName": "Kline",
+    "fullName": "Robert Kline",
+    "birthDate": "1966-07-28T00:00:00.000Z",
+    "deathDate": "2025-03-11T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "robert-kline-6956cd428015332b00933db3"
+  },
+  {
+    "_id": "6956cd428015332b00933db2",
+    "firstName": "Joyce",
+    "lastName": "Giedd",
+    "fullName": "Joyce Giedd",
+    "birthDate": "1949-04-11T00:00:00.000Z",
+    "deathDate": "2025-03-08T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "joyce-giedd-6956cd428015332b00933db2"
+  },
+  {
+    "_id": "6956cd428015332b00933db1",
+    "firstName": "Michael",
+    "lastName": "Gonzales",
+    "fullName": "Michael Gonzales",
+    "birthDate": "1959-11-20T00:00:00.000Z",
+    "deathDate": "2025-03-03T00:00:00.000Z",
+    "location": "in San Juan",
+    "slug": "michael-gonzales-6956cd428015332b00933db1"
+  },
+  {
+    "_id": "6956cd418015332b00933db0",
+    "firstName": "Jace",
+    "lastName": "Scherbarth",
+    "fullName": "Jace Scherbarth",
+    "birthDate": "2010-07-20T00:00:00.000Z",
+    "deathDate": "2025-03-02T00:00:00.000Z",
+    "location": "in Reva",
+    "slug": "jace-scherbarth-6956cd418015332b00933db0"
+  },
+  {
+    "_id": "6956cd418015332b00933daf",
+    "firstName": "Robert",
+    "lastName": "Plato",
+    "fullName": "Robert Plato",
+    "birthDate": "1953-11-20T00:00:00.000Z",
+    "deathDate": "2025-02-19T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "robert-plato-6956cd418015332b00933daf"
+  },
+  {
+    "_id": "6956cd418015332b00933dae",
+    "firstName": "Jay",
+    "lastName": "Morse",
+    "fullName": "Jay Morse",
+    "birthDate": "1943-12-08T00:00:00.000Z",
+    "deathDate": "2025-02-18T00:00:00.000Z",
+    "location": "in Box Elder",
+    "slug": "jay-morse-6956cd418015332b00933dae"
+  },
+  {
+    "_id": "6956cd418015332b00933dad",
+    "firstName": "Young",
+    "lastName": "Kim",
+    "fullName": "Young Kim",
+    "birthDate": "1963-06-12T00:00:00.000Z",
+    "deathDate": "2025-02-15T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "young-kim-6956cd418015332b00933dad"
+  },
+  {
+    "_id": "6956cd418015332b00933dac",
+    "firstName": "Carol",
+    "lastName": "Barney",
+    "fullName": "Carol Barney",
+    "birthDate": "1954-05-17T00:00:00.000Z",
+    "deathDate": "2025-02-10T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "carol-barney-6956cd418015332b00933dac"
+  },
+  {
+    "_id": "6956cd418015332b00933dab",
+    "firstName": "Rosalind",
+    "lastName": "McPherson",
+    "fullName": "Rosalind McPherson",
+    "birthDate": "1928-04-11T00:00:00.000Z",
+    "deathDate": "2025-02-05T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "rosalind-mcpherson-6956cd418015332b00933dab"
+  },
+  {
+    "_id": "6956cd418015332b00933daa",
+    "firstName": "Rodney",
+    "lastName": "Smith",
+    "fullName": "Rodney Smith",
+    "birthDate": "1952-12-22T00:00:00.000Z",
+    "deathDate": "2025-02-04T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "rodney-smith-6956cd418015332b00933daa"
+  },
+  {
+    "_id": "6956cd408015332b00933da9",
+    "firstName": "Jacquline",
+    "lastName": "Blome",
+    "fullName": "Jacquline Blome",
+    "birthDate": "1957-06-20T00:00:00.000Z",
+    "deathDate": "2025-01-28T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "jacquline-blome-6956cd408015332b00933da9"
+  },
+  {
+    "_id": "6956cd408015332b00933da8",
+    "firstName": "Larry",
+    "lastName": "Johnson",
+    "fullName": "Larry Johnson",
+    "birthDate": "1945-11-16T00:00:00.000Z",
+    "deathDate": "2025-01-14T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "larry-johnson-6956cd408015332b00933da8"
+  },
+  {
+    "_id": "6956cd408015332b00933da7",
+    "firstName": "Dane",
+    "lastName": "Nordquist",
+    "fullName": "Dane Nordquist",
+    "birthDate": "1989-06-04T00:00:00.000Z",
+    "deathDate": "2025-01-12T00:00:00.000Z",
+    "location": "in Pierre",
+    "slug": "dane-nordquist-6956cd408015332b00933da7"
+  },
+  {
+    "_id": "6956cd408015332b00933da6",
+    "firstName": "Dallas",
+    "lastName": "Latham",
+    "fullName": "Dallas Latham",
+    "birthDate": "1950-08-11T00:00:00.000Z",
+    "deathDate": "2025-01-11T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "dallas-latham-6956cd408015332b00933da6"
+  },
+  {
+    "_id": "6956cd408015332b00933da5",
+    "firstName": "Mavis",
+    "lastName": "Cochran",
+    "fullName": "Mavis Cochran",
+    "birthDate": "1949-10-13T00:00:00.000Z",
+    "deathDate": "2025-01-08T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "mavis-cochran-6956cd408015332b00933da5"
+  },
+  {
+    "_id": "6956cd408015332b00933da4",
+    "firstName": "Sheryl",
+    "lastName": "Montgomery",
+    "fullName": "Sheryl Montgomery",
+    "birthDate": "1961-08-29T00:00:00.000Z",
+    "deathDate": "2025-01-03T00:00:00.000Z",
+    "location": "of Rapid City",
+    "slug": "sheryl-montgomery-6956cd408015332b00933da4"
+  },
+  {
+    "_id": "6956cd3f8015332b00933da3",
+    "firstName": "Michael",
+    "lastName": "Austin",
+    "fullName": "Michael Austin",
+    "birthDate": "1964-12-29T00:00:00.000Z",
+    "deathDate": "2024-12-30T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "michael-austin-6956cd3f8015332b00933da3"
+  },
+  {
+    "_id": "6956cd3f8015332b00933da2",
+    "firstName": "Janet",
+    "lastName": "Mason",
+    "fullName": "Janet Mason",
+    "birthDate": "1935-05-26T00:00:00.000Z",
+    "deathDate": "2024-12-29T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "janet-mason-6956cd3f8015332b00933da2"
+  },
+  {
+    "_id": "6956cd3f8015332b00933da1",
+    "firstName": "Mitchell",
+    "lastName": "Conklin",
+    "fullName": "Mitchell Conklin",
+    "birthDate": "1985-09-20T00:00:00.000Z",
+    "deathDate": "2024-12-27T00:00:00.000Z",
+    "location": "in Idaho",
+    "slug": "mitchell-conklin-6956cd3f8015332b00933da1"
+  },
+  {
+    "_id": "6956cd3f8015332b00933da0",
+    "firstName": "Jo Ann",
+    "lastName": "Hayes",
+    "fullName": "Jo Ann Hayes",
+    "birthDate": "1941-07-24T00:00:00.000Z",
+    "deathDate": "2024-12-26T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "jo-ann-hayes-6956cd3f8015332b00933da0"
+  },
+  {
+    "_id": "6956cd3f8015332b00933d9f",
+    "firstName": "Michael",
+    "lastName": "Spaulding",
+    "fullName": "Michael Spaulding",
+    "birthDate": "1968-09-06T00:00:00.000Z",
+    "deathDate": "2024-11-30T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "michael-spaulding-6956cd3f8015332b00933d9f"
+  },
+  {
+    "_id": "6956cd3f8015332b00933d9e",
+    "firstName": "Carla",
+    "lastName": "Halverson",
+    "fullName": "Carla Halverson",
+    "birthDate": "1949-05-31T00:00:00.000Z",
+    "deathDate": "2024-11-21T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "carla-halverson-6956cd3f8015332b00933d9e"
+  },
+  {
+    "_id": "6956cd3f8015332b00933d9d",
+    "firstName": "Zachery",
+    "lastName": "Morgan",
+    "fullName": "Zachery Morgan",
+    "birthDate": "1993-05-20T00:00:00.000Z",
+    "deathDate": "2024-11-19T00:00:00.000Z",
+    "location": "in Williams",
+    "slug": "zachery-morgan-6956cd3f8015332b00933d9d"
+  },
+  {
+    "_id": "6956cd3f8015332b00933d9c",
+    "firstName": "Susan",
+    "lastName": "Eagleton",
+    "fullName": "Susan Eagleton",
+    "birthDate": "1957-05-26T00:00:00.000Z",
+    "deathDate": "2024-11-18T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "susan-eagleton-6956cd3f8015332b00933d9c"
+  },
+  {
+    "_id": "6956cd3e8015332b00933d9b",
+    "firstName": "Josephine",
+    "lastName": "Blocker",
+    "fullName": "Josephine Blocker",
+    "birthDate": "1934-01-01T00:00:00.000Z",
+    "deathDate": "2024-11-15T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "josephine-blocker-6956cd3e8015332b00933d9b"
+  },
+  {
+    "_id": "6956cd3e8015332b00933d9a",
+    "firstName": "Virginia",
+    "lastName": "Lopez-Whitecalf",
+    "fullName": "Virginia Lopez-Whitecalf",
+    "birthDate": "1954-01-18T00:00:00.000Z",
+    "deathDate": "2024-11-03T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "virginia-lopez-whitecalf-6956cd3e8015332b00933d9a"
+  },
+  {
+    "_id": "6956cd3e8015332b00933d99",
+    "firstName": "James",
+    "lastName": "Munyon",
+    "fullName": "James Munyon",
+    "birthDate": "1982-05-02T00:00:00.000Z",
+    "deathDate": "2024-11-01T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "james-munyon-6956cd3e8015332b00933d99"
+  },
+  {
+    "_id": "6956cd3e8015332b00933d98",
+    "firstName": "Charles",
+    "lastName": "Wood",
+    "fullName": "Charles Wood",
+    "birthDate": "1952-10-26T00:00:00.000Z",
+    "deathDate": "2024-10-31T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "charles-wood-6956cd3e8015332b00933d98"
+  },
+  {
+    "_id": "6956cd3e8015332b00933d97",
+    "firstName": "Timothy",
+    "lastName": "Chamberlain",
+    "fullName": "Timothy Chamberlain",
+    "birthDate": "1954-02-04T00:00:00.000Z",
+    "deathDate": "2024-10-20T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "timothy-chamberlain-6956cd3e8015332b00933d97"
+  },
+  {
+    "_id": "6956cd3e8015332b00933d96",
+    "firstName": "Ernest",
+    "lastName": "Landrum",
+    "fullName": "Ernest Landrum",
+    "birthDate": "1944-09-13T00:00:00.000Z",
+    "deathDate": "2024-10-15T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "ernest-landrum-6956cd3e8015332b00933d96"
+  },
+  {
+    "_id": "6956cd3d8015332b00933d95",
+    "firstName": "Shawna",
+    "lastName": "Scott",
+    "fullName": "Shawna Scott",
+    "birthDate": "1958-10-24T00:00:00.000Z",
+    "deathDate": "2024-10-15T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "shawna-scott-6956cd3d8015332b00933d95"
+  },
+  {
+    "_id": "6956cd3d8015332b00933d94",
+    "firstName": "Donna",
+    "lastName": "Gannon",
+    "fullName": "Donna Gannon",
+    "birthDate": "1942-04-21T00:00:00.000Z",
+    "deathDate": "2024-10-08T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "donna-gannon-6956cd3d8015332b00933d94"
+  },
+  {
+    "_id": "6956cd3d8015332b00933d93",
+    "firstName": "Linda",
+    "lastName": "Cantrell",
+    "fullName": "Linda Cantrell",
+    "birthDate": "1963-10-13T00:00:00.000Z",
+    "deathDate": "2024-10-04T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "linda-cantrell-6956cd3d8015332b00933d93"
+  },
+  {
+    "_id": "6956cd3d8015332b00933d92",
+    "firstName": "Sierra",
+    "lastName": "Borland",
+    "fullName": "Sierra Borland",
+    "birthDate": "2010-03-01T00:00:00.000Z",
+    "deathDate": "2024-09-21T00:00:00.000Z",
+    "location": "in Bakersfield",
+    "slug": "sierra-borland-6956cd3d8015332b00933d92"
+  },
+  {
+    "_id": "6956cd3d8015332b00933d91",
+    "firstName": "Sandra",
+    "lastName": "Boyd",
+    "fullName": "Sandra Boyd",
+    "birthDate": "1934-09-17T00:00:00.000Z",
+    "deathDate": "2024-09-08T00:00:00.000Z",
+    "location": "in Sioux Falls",
+    "slug": "sandra-boyd-6956cd3d8015332b00933d91"
+  },
+  {
+    "_id": "6956cd3d8015332b00933d90",
+    "firstName": "Raymond",
+    "lastName": "Aubert, Sr.",
+    "fullName": "Raymond Aubert, Sr.",
+    "birthDate": "1942-10-12T00:00:00.000Z",
+    "deathDate": "2024-09-07T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "raymond-aubert-sr-6956cd3d8015332b00933d90"
+  },
+  {
+    "_id": "6956cd3d8015332b00933d8f",
+    "firstName": "Robert",
+    "lastName": "Sava",
+    "fullName": "Robert Sava",
+    "birthDate": "1945-11-03T00:00:00.000Z",
+    "deathDate": "2024-09-07T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "robert-sava-6956cd3d8015332b00933d8f"
+  },
+  {
+    "_id": "6956cd3c8015332b00933d8e",
+    "firstName": "Kathleen &quot;Kitty&quot;",
+    "lastName": "Nordstrom",
+    "fullName": "Kathleen &quot;Kitty&quot; Nordstrom",
+    "birthDate": "1936-11-12T00:00:00.000Z",
+    "deathDate": "2024-08-31T00:00:00.000Z",
+    "location": "in Mobridge",
+    "slug": "kathleen-andquotkittyandquot-nordstrom-6956cd3c8015332b00933d8e"
+  },
+  {
+    "_id": "6956cd3c8015332b00933d8d",
+    "firstName": "Andrew",
+    "lastName": "Warren",
+    "fullName": "Andrew Warren",
+    "birthDate": "1981-01-01T00:00:00.000Z",
+    "deathDate": "2024-08-28T00:00:00.000Z",
+    "location": "in Garland",
+    "slug": "andrew-warren-6956cd3c8015332b00933d8d"
+  },
+  {
+    "_id": "6956cd3c8015332b00933d8c",
+    "firstName": "Arthur",
+    "lastName": "Anderson",
+    "fullName": "Arthur Anderson",
+    "birthDate": "1954-02-25T00:00:00.000Z",
+    "deathDate": "2024-08-26T00:00:00.000Z",
+    "location": "in Shaw",
+    "slug": "arthur-anderson-6956cd3c8015332b00933d8c"
+  },
+  {
+    "_id": "6956cd3c8015332b00933d8b",
+    "firstName": "Sheri",
+    "lastName": "Fernandez",
+    "fullName": "Sheri Fernandez",
+    "birthDate": "1962-11-26T00:00:00.000Z",
+    "deathDate": "2024-08-17T00:00:00.000Z",
+    "location": "in West Covina",
+    "slug": "sheri-fernandez-6956cd3c8015332b00933d8b"
+  },
+  {
+    "_id": "6956cd3c8015332b00933d8a",
+    "firstName": "Joan",
+    "lastName": "Perdue",
+    "fullName": "Joan Perdue",
+    "birthDate": "1938-06-08T00:00:00.000Z",
+    "deathDate": "2024-08-02T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "joan-perdue-6956cd3c8015332b00933d8a"
+  },
+  {
+    "_id": "6956cd3c8015332b00933d89",
+    "firstName": "Debra",
+    "lastName": "Wanous",
+    "fullName": "Debra Wanous",
+    "birthDate": "1958-05-19T00:00:00.000Z",
+    "deathDate": "2024-07-31T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "debra-wanous-6956cd3c8015332b00933d89"
+  },
+  {
+    "_id": "6956cd3b8015332b00933d88",
+    "firstName": "David",
+    "lastName": "Sacry",
+    "fullName": "David Sacry",
+    "birthDate": "1949-11-16T00:00:00.000Z",
+    "deathDate": "2024-07-29T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "david-sacry-6956cd3b8015332b00933d88"
+  },
+  {
+    "_id": "6956cd3b8015332b00933d87",
+    "firstName": "Mary",
+    "lastName": "Miller",
+    "fullName": "Mary Miller",
+    "birthDate": "1947-05-17T00:00:00.000Z",
+    "deathDate": "2024-07-27T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "mary-miller-6956cd3b8015332b00933d87"
+  },
+  {
+    "_id": "6956cd3b8015332b00933d86",
+    "firstName": "Michael",
+    "lastName": "Waisanen",
+    "fullName": "Michael Waisanen",
+    "birthDate": "1987-07-03T00:00:00.000Z",
+    "deathDate": "2024-07-23T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "michael-waisanen-6956cd3b8015332b00933d86"
+  },
+  {
+    "_id": "6956cd3b8015332b00933d85",
+    "firstName": "Jane",
+    "lastName": "Roberts",
+    "fullName": "Jane Roberts",
+    "birthDate": "1949-07-20T00:00:00.000Z",
+    "deathDate": "2024-07-23T00:00:00.000Z",
+    "location": "Rapid City",
+    "slug": "jane-roberts-6956cd3b8015332b00933d85"
+  },
+  {
+    "_id": "6956cd3b8015332b00933d84",
+    "firstName": "Kenneth",
+    "lastName": "Novotny",
+    "fullName": "Kenneth Novotny",
+    "birthDate": "1959-07-15T00:00:00.000Z",
+    "deathDate": "2024-07-13T00:00:00.000Z",
+    "location": "in Winner",
+    "slug": "kenneth-novotny-6956cd3b8015332b00933d84"
+  },
+  {
+    "_id": "6956cd3b8015332b00933d83",
+    "firstName": "James",
+    "lastName": "Greenberg",
+    "fullName": "James Greenberg",
+    "birthDate": "1948-10-15T00:00:00.000Z",
+    "deathDate": "2024-07-05T00:00:00.000Z",
+    "location": "of Rapid City",
+    "slug": "james-greenberg-6956cd3b8015332b00933d83"
+  },
+  {
+    "_id": "6956cd3a8015332b00933d82",
+    "firstName": "William",
+    "lastName": "Krokel",
+    "fullName": "William Krokel",
+    "birthDate": "1939-01-03T00:00:00.000Z",
+    "deathDate": "2024-07-04T00:00:00.000Z",
+    "location": "in Java",
+    "slug": "william-krokel-6956cd3a8015332b00933d82"
+  },
+  {
+    "_id": "6956cd3a8015332b00933d81",
+    "firstName": "John",
+    "lastName": "Lambert",
+    "fullName": "John Lambert",
+    "birthDate": "1942-04-25T00:00:00.000Z",
+    "deathDate": "2024-07-03T00:00:00.000Z",
+    "location": "in Lambert",
+    "slug": "john-lambert-6956cd3a8015332b00933d81"
+  },
+  {
+    "_id": "6956cd3a8015332b00933d80",
+    "firstName": "Gregory &quot;Greg&quot;",
+    "lastName": "Blom",
+    "fullName": "Gregory &quot;Greg&quot; Blom",
+    "birthDate": "1959-02-26T00:00:00.000Z",
+    "deathDate": "2024-06-25T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "gregory-andquotgregandquot-blom-6956cd3a8015332b00933d80"
+  },
+  {
+    "_id": "6956cd3a8015332b00933d7f",
+    "firstName": "Dillon",
+    "lastName": "Brigman",
+    "fullName": "Dillon Brigman",
+    "birthDate": "1993-01-31T00:00:00.000Z",
+    "deathDate": "2024-06-16T00:00:00.000Z",
+    "location": "of Rapid City",
+    "slug": "dillon-brigman-6956cd3a8015332b00933d7f"
+  },
+  {
+    "_id": "6956cd3a8015332b00933d7e",
+    "firstName": "Roger",
+    "lastName": "Anderson",
+    "fullName": "Roger Anderson",
+    "birthDate": "1960-04-11T00:00:00.000Z",
+    "deathDate": "2024-06-15T00:00:00.000Z",
+    "location": "in Keosauqua",
+    "slug": "roger-anderson-6956cd3a8015332b00933d7e"
+  },
+  {
+    "_id": "6956cd3a8015332b00933d7d",
+    "firstName": "Patricia",
+    "lastName": "Colleran",
+    "fullName": "Patricia Colleran",
+    "birthDate": "1951-02-02T00:00:00.000Z",
+    "deathDate": "2024-06-01T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "patricia-colleran-6956cd3a8015332b00933d7d"
+  },
+  {
+    "_id": "6956cd3a8015332b00933d7c",
+    "firstName": "Rebecca",
+    "lastName": "Chambers",
+    "fullName": "Rebecca Chambers",
+    "birthDate": "1959-07-03T00:00:00.000Z",
+    "deathDate": "2024-05-27T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "rebecca-chambers-6956cd3a8015332b00933d7c"
+  },
+  {
+    "_id": "6956cd398015332b00933d7b",
+    "firstName": "Cheryle",
+    "lastName": "Slagle",
+    "fullName": "Cheryle Slagle",
+    "birthDate": "1947-08-18T00:00:00.000Z",
+    "deathDate": "2024-05-25T00:00:00.000Z",
+    "location": "in Las Vegas",
+    "slug": "cheryle-slagle-6956cd398015332b00933d7b"
+  },
+  {
+    "_id": "6956cd398015332b00933d7a",
+    "firstName": "Jaimie",
+    "lastName": "Rivers-Chapman",
+    "fullName": "Jaimie Rivers-Chapman",
+    "birthDate": "1967-06-05T00:00:00.000Z",
+    "deathDate": "2024-05-23T00:00:00.000Z",
+    "location": "in Kansas City",
+    "slug": "jaimie-rivers-chapman-6956cd398015332b00933d7a"
+  },
+  {
+    "_id": "6956cd398015332b00933d79",
+    "firstName": "Hannelore",
+    "lastName": "Ausdal",
+    "fullName": "Hannelore Ausdal",
+    "birthDate": "1942-02-22T00:00:00.000Z",
+    "deathDate": "2024-05-09T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "hannelore-ausdal-6956cd398015332b00933d79"
+  },
+  {
+    "_id": "6956cd398015332b00933d78",
+    "firstName": "Lorraine",
+    "lastName": "Van Pelt",
+    "fullName": "Lorraine Van Pelt",
+    "birthDate": "1944-07-22T00:00:00.000Z",
+    "deathDate": "2024-05-04T00:00:00.000Z",
+    "location": "in Bedminster",
+    "slug": "lorraine-van-pelt-6956cd398015332b00933d78"
+  },
+  {
+    "_id": "6956cd398015332b00933d77",
+    "firstName": "Donald",
+    "lastName": "Sweeney",
+    "fullName": "Donald Sweeney",
+    "birthDate": "1936-11-18T00:00:00.000Z",
+    "deathDate": "2024-04-19T00:00:00.000Z",
+    "location": "in Sweeney",
+    "slug": "donald-sweeney-6956cd398015332b00933d77"
+  },
+  {
+    "_id": "6956cd398015332b00933d76",
+    "firstName": "Jeremy",
+    "lastName": "Simpson",
+    "fullName": "Jeremy Simpson",
+    "birthDate": "1977-02-04T00:00:00.000Z",
+    "deathDate": "2024-04-16T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "jeremy-simpson-6956cd398015332b00933d76"
+  },
+  {
+    "_id": "6956cd388015332b00933d75",
+    "firstName": "John",
+    "lastName": "Duggan",
+    "fullName": "John Duggan",
+    "birthDate": "1950-04-30T00:00:00.000Z",
+    "deathDate": "2024-04-15T00:00:00.000Z",
+    "location": "of Life",
+    "slug": "john-duggan-6956cd388015332b00933d75"
+  },
+  {
+    "_id": "6956cd388015332b00933d74",
+    "firstName": "Richard",
+    "lastName": "Jones, Jr",
+    "fullName": "Richard Jones, Jr",
+    "birthDate": "1954-01-14T00:00:00.000Z",
+    "deathDate": "2024-04-12T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "richard-jones-jr-6956cd388015332b00933d74"
+  },
+  {
+    "_id": "6956cd388015332b00933d73",
+    "firstName": "Donna",
+    "lastName": "Sweeney",
+    "fullName": "Donna Sweeney",
+    "birthDate": "1958-01-12T00:00:00.000Z",
+    "deathDate": "2024-04-11T00:00:00.000Z",
+    "location": "in Bottineau",
+    "slug": "donna-sweeney-6956cd388015332b00933d73"
+  },
+  {
+    "_id": "6956cd388015332b00933d72",
+    "firstName": "Marvin",
+    "lastName": "Heggem",
+    "fullName": "Marvin Heggem",
+    "birthDate": "1954-09-23T00:00:00.000Z",
+    "deathDate": "2024-04-03T00:00:00.000Z",
+    "location": "in Spearfish",
+    "slug": "marvin-heggem-6956cd388015332b00933d72"
+  },
+  {
+    "_id": "6956cd388015332b00933d71",
+    "firstName": "Jeffrey",
+    "lastName": "Thorstenson",
+    "fullName": "Jeffrey Thorstenson",
+    "birthDate": "1971-05-22T00:00:00.000Z",
+    "deathDate": "2024-03-28T00:00:00.000Z",
+    "location": "in Rapid",
+    "slug": "jeffrey-thorstenson-6956cd388015332b00933d71"
+  },
+  {
+    "_id": "6956cd388015332b00933d70",
+    "firstName": "Barbara",
+    "lastName": "Schneider",
+    "fullName": "Barbara Schneider",
+    "birthDate": "1952-09-08T00:00:00.000Z",
+    "deathDate": "2024-03-22T00:00:00.000Z",
+    "location": "in View",
+    "slug": "barbara-schneider-6956cd388015332b00933d70"
+  },
+  {
+    "_id": "6956cd378015332b00933d6f",
+    "firstName": "Galen",
+    "lastName": "Burgett",
+    "fullName": "Galen Burgett",
+    "birthDate": "1969-12-31T00:00:00.000Z",
+    "deathDate": "2024-03-16T00:00:00.000Z",
+    "location": "of Rapid City",
+    "slug": "galen-burgett-6956cd378015332b00933d6f"
+  },
+  {
+    "_id": "6956cd378015332b00933d6e",
+    "firstName": "Eddie",
+    "lastName": "Woods",
+    "fullName": "Eddie Woods",
+    "birthDate": "1958-04-14T00:00:00.000Z",
+    "deathDate": "2024-03-15T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "eddie-woods-6956cd378015332b00933d6e"
+  },
+  {
+    "_id": "6956cd378015332b00933d6d",
+    "firstName": "Michael",
+    "lastName": "Lyke",
+    "fullName": "Michael Lyke",
+    "birthDate": "1950-03-20T00:00:00.000Z",
+    "deathDate": "2024-02-29T00:00:00.000Z",
+    "location": "of Rapid City",
+    "slug": "michael-lyke-6956cd378015332b00933d6d"
+  },
+  {
+    "_id": "6956cd368015332b00933d6c",
+    "firstName": "David",
+    "lastName": "McBee",
+    "fullName": "David McBee",
+    "birthDate": "1962-08-14T00:00:00.000Z",
+    "deathDate": "2024-02-27T00:00:00.000Z",
+    "location": "in Lowe Mc",
+    "slug": "david-mcbee-6956cd368015332b00933d6c"
+  },
+  {
+    "_id": "6956cd368015332b00933d6b",
+    "firstName": "Mary",
+    "lastName": "Marsh",
+    "fullName": "Mary Marsh",
+    "birthDate": "1951-03-10T00:00:00.000Z",
+    "deathDate": "2024-02-07T00:00:00.000Z",
+    "location": "in Hot Springs",
+    "slug": "mary-marsh-6956cd368015332b00933d6b"
+  },
+  {
+    "_id": "6956cd368015332b00933d6a",
+    "firstName": "Gary",
+    "lastName": "Gartenberg",
+    "fullName": "Gary Gartenberg",
+    "birthDate": "1954-11-29T00:00:00.000Z",
+    "deathDate": "2024-02-01T00:00:00.000Z",
+    "location": "in Newark",
+    "slug": "gary-gartenberg-6956cd368015332b00933d6a"
+  },
+  {
+    "_id": "6956cd368015332b00933d69",
+    "firstName": "Janice",
+    "lastName": "Kahler",
+    "fullName": "Janice Kahler",
+    "birthDate": "1948-04-14T00:00:00.000Z",
+    "deathDate": "2024-01-24T00:00:00.000Z",
+    "location": "of Rapid City",
+    "slug": "janice-kahler-6956cd368015332b00933d69"
+  },
+  {
+    "_id": "6956cd368015332b00933d68",
+    "firstName": "Tera",
+    "lastName": "Smith",
+    "fullName": "Tera Smith",
+    "birthDate": "1974-09-17T00:00:00.000Z",
+    "deathDate": "2024-01-18T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "tera-smith-6956cd368015332b00933d68"
+  },
+  {
+    "_id": "6956cd368015332b00933d67",
+    "firstName": "Shirley",
+    "lastName": "Latham",
+    "fullName": "Shirley Latham",
+    "birthDate": "1941-07-14T00:00:00.000Z",
+    "deathDate": "2024-01-12T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "shirley-latham-6956cd368015332b00933d67"
+  },
+  {
+    "_id": "6956cd368015332b00933d66",
+    "firstName": "Linda",
+    "lastName": "Trobee",
+    "fullName": "Linda Trobee",
+    "birthDate": "1944-08-13T00:00:00.000Z",
+    "deathDate": "2024-01-05T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "linda-trobee-6956cd368015332b00933d66"
+  },
+  {
+    "_id": "6956cd358015332b00933d65",
+    "firstName": "Bryan",
+    "lastName": "Pittman",
+    "fullName": "Bryan Pittman",
+    "birthDate": "1985-09-16T00:00:00.000Z",
+    "deathDate": "2023-12-20T00:00:00.000Z",
+    "location": "in Tampa",
+    "slug": "bryan-pittman-6956cd358015332b00933d65"
+  },
+  {
+    "_id": "6956cd358015332b00933d64",
+    "firstName": "Larry",
+    "lastName": "Flannagan",
+    "fullName": "Larry Flannagan",
+    "birthDate": "1954-09-09T00:00:00.000Z",
+    "deathDate": "2023-12-04T00:00:00.000Z",
+    "location": "in Clarina Iowa",
+    "slug": "larry-flannagan-6956cd358015332b00933d64"
+  },
+  {
+    "_id": "6956cd358015332b00933d63",
+    "firstName": "Cheryl &quot;Charlie&quot;",
+    "lastName": "Lindgren",
+    "fullName": "Cheryl &quot;Charlie&quot; Lindgren",
+    "birthDate": "1948-03-29T00:00:00.000Z",
+    "deathDate": "2023-11-29T00:00:00.000Z",
+    "location": "in November",
+    "slug": "cheryl-andquotcharlieandquot-lindgren-6956cd358015332b00933d63"
+  },
+  {
+    "_id": "6956cd358015332b00933d62",
+    "firstName": "Joseph",
+    "lastName": "Lopez",
+    "fullName": "Joseph Lopez",
+    "birthDate": "1965-07-20T00:00:00.000Z",
+    "deathDate": "2023-11-29T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "joseph-lopez-6956cd358015332b00933d62"
+  },
+  {
+    "_id": "6956cd358015332b00933d61",
+    "firstName": "Dave",
+    "lastName": "Paulson",
+    "fullName": "Dave Paulson",
+    "birthDate": "1958-03-15T00:00:00.000Z",
+    "deathDate": "2023-11-16T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "dave-paulson-6956cd358015332b00933d61"
+  },
+  {
+    "_id": "6956cd358015332b00933d60",
+    "firstName": "Robert",
+    "lastName": "Lang",
+    "fullName": "Robert Lang",
+    "birthDate": "1947-05-10T00:00:00.000Z",
+    "deathDate": "2023-11-06T00:00:00.000Z",
+    "location": "Rapid City",
+    "slug": "robert-lang-6956cd358015332b00933d60"
+  },
+  {
+    "_id": "6956cd358015332b00933d5f",
+    "firstName": "Nora",
+    "lastName": "Alexander",
+    "fullName": "Nora Alexander",
+    "birthDate": "1998-11-07T00:00:00.000Z",
+    "deathDate": "2023-11-02T00:00:00.000Z",
+    "location": "in Nampa",
+    "slug": "nora-alexander-6956cd358015332b00933d5f"
+  },
+  {
+    "_id": "6956cd348015332b00933d5e",
+    "firstName": "Michael",
+    "lastName": "Bradshaw",
+    "fullName": "Michael Bradshaw",
+    "birthDate": "1964-10-05T00:00:00.000Z",
+    "deathDate": "2023-10-19T00:00:00.000Z",
+    "location": "in Texarkana",
+    "slug": "michael-bradshaw-6956cd348015332b00933d5e"
+  },
+  {
+    "_id": "6956cd348015332b00933d5d",
+    "firstName": "Rodger",
+    "lastName": "LeFebvre",
+    "fullName": "Rodger LeFebvre",
+    "birthDate": "1946-04-11T00:00:00.000Z",
+    "deathDate": "2023-10-01T00:00:00.000Z",
+    "location": "in Mapleton",
+    "slug": "rodger-lefebvre-6956cd348015332b00933d5d"
+  },
+  {
+    "_id": "6956cd348015332b00933d5c",
+    "firstName": "Ronald",
+    "lastName": "Christensen",
+    "fullName": "Ronald Christensen",
+    "birthDate": "1944-03-17T00:00:00.000Z",
+    "deathDate": "2023-09-21T00:00:00.000Z",
+    "location": "of Rapid City",
+    "slug": "ronald-christensen-6956cd348015332b00933d5c"
+  },
+  {
+    "_id": "6956cd348015332b00933d5b",
+    "firstName": "Gary",
+    "lastName": "Muck",
+    "fullName": "Gary Muck",
+    "birthDate": "1944-09-25T00:00:00.000Z",
+    "deathDate": "2023-09-19T00:00:00.000Z",
+    "location": "in Gordon",
+    "slug": "gary-muck-6956cd348015332b00933d5b"
+  },
+  {
+    "_id": "6956cd348015332b00933d5a",
+    "firstName": "Venus",
+    "lastName": "Sierra",
+    "fullName": "Venus Sierra",
+    "birthDate": "1948-10-16T00:00:00.000Z",
+    "deathDate": "2023-09-17T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "venus-sierra-6956cd348015332b00933d5a"
+  },
+  {
+    "_id": "6956cd348015332b00933d59",
+    "firstName": "Vaun",
+    "lastName": "Boyd",
+    "fullName": "Vaun Boyd",
+    "birthDate": "1930-11-26T00:00:00.000Z",
+    "deathDate": "2023-09-16T00:00:00.000Z",
+    "location": "in Kimball",
+    "slug": "vaun-boyd-6956cd348015332b00933d59"
+  },
+  {
+    "_id": "6956cd338015332b00933d58",
+    "firstName": "Bernhard",
+    "lastName": "Winkler",
+    "fullName": "Bernhard Winkler",
+    "birthDate": "1953-09-05T00:00:00.000Z",
+    "deathDate": "2023-09-07T00:00:00.000Z",
+    "location": "in Manheim",
+    "slug": "bernhard-winkler-6956cd338015332b00933d58"
+  },
+  {
+    "_id": "6956cd338015332b00933d57",
+    "firstName": "Donald",
+    "lastName": "Perdue",
+    "fullName": "Donald Perdue",
+    "birthDate": "1931-12-30T00:00:00.000Z",
+    "deathDate": "2023-08-19T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "donald-perdue-6956cd338015332b00933d57"
+  },
+  {
+    "_id": "6956cd338015332b00933d56",
+    "firstName": "Justin",
+    "lastName": "Sogn",
+    "fullName": "Justin Sogn",
+    "birthDate": "1979-07-15T00:00:00.000Z",
+    "deathDate": "2023-08-07T00:00:00.000Z",
+    "location": "in Lee Sogn",
+    "slug": "justin-sogn-6956cd338015332b00933d56"
+  },
+  {
+    "_id": "6956cd338015332b00933d55",
+    "firstName": "Michael",
+    "lastName": "Evans",
+    "fullName": "Michael Evans",
+    "birthDate": "1948-07-10T00:00:00.000Z",
+    "deathDate": "2023-08-04T00:00:00.000Z",
+    "location": "of Rapid City",
+    "slug": "michael-evans-6956cd338015332b00933d55"
+  },
+  {
+    "_id": "6956cd338015332b00933d54",
+    "firstName": "John",
+    "lastName": "Feddersen",
+    "fullName": "John Feddersen",
+    "birthDate": "1942-03-08T00:00:00.000Z",
+    "deathDate": "2023-07-27T00:00:00.000Z",
+    "location": "in Belle Fourche",
+    "slug": "john-feddersen-6956cd338015332b00933d54"
+  },
+  {
+    "_id": "6956cd338015332b00933d53",
+    "firstName": "Leona",
+    "lastName": "Carney",
+    "fullName": "Leona Carney",
+    "birthDate": "1967-07-14T00:00:00.000Z",
+    "deathDate": "2023-07-22T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "leona-carney-6956cd338015332b00933d53"
+  },
+  {
+    "_id": "6956cd328015332b00933d52",
+    "firstName": "Tanja",
+    "lastName": "Murraine",
+    "fullName": "Tanja Murraine",
+    "birthDate": "1966-07-11T00:00:00.000Z",
+    "deathDate": "2023-06-06T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "tanja-murraine-6956cd328015332b00933d52"
+  },
+  {
+    "_id": "6956cd328015332b00933d51",
+    "firstName": "Joseph",
+    "lastName": "Kutil",
+    "fullName": "Joseph Kutil",
+    "birthDate": "1961-07-18T00:00:00.000Z",
+    "deathDate": "2023-06-03T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "joseph-kutil-6956cd328015332b00933d51"
+  },
+  {
+    "_id": "6956cd328015332b00933d50",
+    "firstName": "Ronald",
+    "lastName": "Penn",
+    "fullName": "Ronald Penn",
+    "birthDate": "1937-08-09T00:00:00.000Z",
+    "deathDate": "2023-05-17T00:00:00.000Z",
+    "location": "in Bowman",
+    "slug": "ronald-penn-6956cd328015332b00933d50"
+  },
+  {
+    "_id": "6956cd328015332b00933d4f",
+    "firstName": "Timothy",
+    "lastName": "Nordquist",
+    "fullName": "Timothy Nordquist",
+    "birthDate": "1957-08-27T00:00:00.000Z",
+    "deathDate": "2023-05-06T00:00:00.000Z",
+    "location": "in Lake City",
+    "slug": "timothy-nordquist-6956cd328015332b00933d4f"
+  },
+  {
+    "_id": "6956cd328015332b00933d4e",
+    "firstName": "Dale",
+    "lastName": "Hayford",
+    "fullName": "Dale Hayford",
+    "birthDate": "1959-07-03T00:00:00.000Z",
+    "deathDate": "2023-05-01T00:00:00.000Z",
+    "location": "in Sturgis",
+    "slug": "dale-hayford-6956cd328015332b00933d4e"
+  },
+  {
+    "_id": "6956cd328015332b00933d4d",
+    "firstName": "Ruben",
+    "lastName": "McCloskey",
+    "fullName": "Ruben McCloskey",
+    "birthDate": "1929-06-15T00:00:00.000Z",
+    "deathDate": "2023-04-08T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "ruben-mccloskey-6956cd328015332b00933d4d"
+  },
+  {
+    "_id": "6956cd328015332b00933d4c",
+    "firstName": "Dawn",
+    "lastName": "Doucette",
+    "fullName": "Dawn Doucette",
+    "birthDate": "1964-07-27T00:00:00.000Z",
+    "deathDate": "2023-04-03T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "dawn-doucette-6956cd328015332b00933d4c"
+  },
+  {
+    "_id": "6956cd318015332b00933d4b",
+    "firstName": "Beverly",
+    "lastName": "Nash",
+    "fullName": "Beverly Nash",
+    "birthDate": "1965-12-25T00:00:00.000Z",
+    "deathDate": "2023-03-22T00:00:00.000Z",
+    "location": "in Fairmont",
+    "slug": "beverly-nash-6956cd318015332b00933d4b"
+  },
+  {
+    "_id": "6956cd318015332b00933d4a",
+    "firstName": "Michael",
+    "lastName": "Matson",
+    "fullName": "Michael Matson",
+    "birthDate": "1948-01-06T00:00:00.000Z",
+    "deathDate": "2023-03-19T00:00:00.000Z",
+    "location": "of Custer",
+    "slug": "michael-matson-6956cd318015332b00933d4a"
+  },
+  {
+    "_id": "6956cd318015332b00933d49",
+    "firstName": "Len",
+    "lastName": "Hofer",
+    "fullName": "Len Hofer",
+    "birthDate": "1942-01-30T00:00:00.000Z",
+    "deathDate": "2023-02-27T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "len-hofer-6956cd318015332b00933d49"
+  },
+  {
+    "_id": "6956cd318015332b00933d48",
+    "firstName": "Carolyn",
+    "lastName": "Rains",
+    "fullName": "Carolyn Rains",
+    "birthDate": "1945-10-08T00:00:00.000Z",
+    "deathDate": "2023-02-25T00:00:00.000Z",
+    "location": "of Piedmont",
+    "slug": "carolyn-rains-6956cd318015332b00933d48"
+  },
+  {
+    "_id": "6956cd318015332b00933d47",
+    "firstName": "Toni",
+    "lastName": "Long",
+    "fullName": "Toni Long",
+    "birthDate": "1955-02-14T00:00:00.000Z",
+    "deathDate": "2023-02-21T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "toni-long-6956cd318015332b00933d47"
+  },
+  {
+    "_id": "6956cd318015332b00933d46",
+    "firstName": "Mildred",
+    "lastName": "Perry",
+    "fullName": "Mildred Perry",
+    "birthDate": "1942-02-15T00:00:00.000Z",
+    "deathDate": "2023-01-16T00:00:00.000Z",
+    "location": "in Safford",
+    "slug": "mildred-perry-6956cd318015332b00933d46"
+  },
+  {
+    "_id": "6956cd308015332b00933d45",
+    "firstName": "Roger",
+    "lastName": "Pressley",
+    "fullName": "Roger Pressley",
+    "birthDate": "1957-05-01T00:00:00.000Z",
+    "deathDate": "2023-01-10T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "roger-pressley-6956cd308015332b00933d45"
+  },
+  {
+    "_id": "6956cd308015332b00933d44",
+    "firstName": "Harley",
+    "lastName": "Wilson Jr.",
+    "fullName": "Harley Wilson Jr.",
+    "birthDate": "1951-08-05T00:00:00.000Z",
+    "deathDate": "2022-12-30T00:00:00.000Z",
+    "location": "in Springs Healthcare",
+    "slug": "harley-wilson-jr-6956cd308015332b00933d44"
+  },
+  {
+    "_id": "6956cd308015332b00933d43",
+    "firstName": "Luke",
+    "lastName": "Massee",
+    "fullName": "Luke Massee",
+    "birthDate": "1992-11-04T00:00:00.000Z",
+    "deathDate": "2022-12-23T00:00:00.000Z",
+    "location": "in Bismarck",
+    "slug": "luke-massee-6956cd308015332b00933d43"
+  },
+  {
+    "_id": "6956cd308015332b00933d42",
+    "firstName": "Jose &quot;Chris&quot;",
+    "lastName": "Barrera",
+    "fullName": "Jose &quot;Chris&quot; Barrera",
+    "birthDate": "1994-08-17T00:00:00.000Z",
+    "deathDate": "2022-10-01T00:00:00.000Z",
+    "location": "in Kenansville",
+    "slug": "jose-andquotchrisandquot-barrera-6956cd308015332b00933d42"
+  },
+  {
+    "_id": "6956cd308015332b00933d41",
+    "firstName": "Alta",
+    "lastName": "Bachofer",
+    "fullName": "Alta Bachofer",
+    "birthDate": "1932-12-23T00:00:00.000Z",
+    "deathDate": "2022-09-25T00:00:00.000Z",
+    "location": "in Witten",
+    "slug": "alta-bachofer-6956cd308015332b00933d41"
+  },
+  {
+    "_id": "6956cd308015332b00933d40",
+    "firstName": "Douglas",
+    "lastName": "Caney",
+    "fullName": "Douglas Caney",
+    "birthDate": "1993-02-16T00:00:00.000Z",
+    "deathDate": "2022-09-17T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "douglas-caney-6956cd308015332b00933d40"
+  },
+  {
+    "_id": "6956cd308015332b00933d3f",
+    "firstName": "Brit",
+    "lastName": "Jones",
+    "fullName": "Brit Jones",
+    "birthDate": null,
+    "deathDate": "2022-08-11T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "brit-jones-6956cd308015332b00933d3f"
+  },
+  {
+    "_id": "6956cd2f8015332b00933d3e",
+    "firstName": "Cheryl",
+    "lastName": "Daugherty",
+    "fullName": "Cheryl Daugherty",
+    "birthDate": "1960-05-12T00:00:00.000Z",
+    "deathDate": "2022-06-15T00:00:00.000Z",
+    "location": "in Monroeville",
+    "slug": "cheryl-daugherty-6956cd2f8015332b00933d3e"
+  },
+  {
+    "_id": "6956cd2f8015332b00933d3d",
+    "firstName": "Bonnie",
+    "lastName": "Plooster",
+    "fullName": "Bonnie Plooster",
+    "birthDate": "1945-08-23T00:00:00.000Z",
+    "deathDate": "2022-05-26T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "bonnie-plooster-6956cd2f8015332b00933d3d"
+  },
+  {
+    "_id": "6956cd2f8015332b00933d3c",
+    "firstName": "Michael",
+    "lastName": "Schwendeman",
+    "fullName": "Michael Schwendeman",
+    "birthDate": "1953-10-29T00:00:00.000Z",
+    "deathDate": "2022-05-02T00:00:00.000Z",
+    "location": "in Korea",
+    "slug": "michael-schwendeman-6956cd2f8015332b00933d3c"
+  },
+  {
+    "_id": "6956cd2f8015332b00933d3b",
+    "firstName": "Timothy",
+    "lastName": "Rawhouser",
+    "fullName": "Timothy Rawhouser",
+    "birthDate": "1966-12-14T00:00:00.000Z",
+    "deathDate": "2022-04-18T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "timothy-rawhouser-6956cd2f8015332b00933d3b"
+  },
+  {
+    "_id": "6956cd2f8015332b00933d3a",
+    "firstName": "Barbara",
+    "lastName": "McKichan",
+    "fullName": "Barbara McKichan",
+    "birthDate": "1945-09-28T00:00:00.000Z",
+    "deathDate": "2022-04-16T00:00:00.000Z",
+    "location": "in Rapid City",
+    "slug": "barbara-mckichan-6956cd2f8015332b00933d3a"
+  },
+  {
+    "_id": "6956cd2f8015332b00933d39",
+    "firstName": "Lloyd",
+    "lastName": "Moncur",
+    "fullName": "Lloyd Moncur",
+    "birthDate": "1928-06-13T00:00:00.000Z",
+    "deathDate": "2022-03-17T00:00:00.000Z",
+    "location": "in Belle Fourche",
+    "slug": "lloyd-moncur-6956cd2f8015332b00933d39"
+  },
+  {
+    "_id": "6956cd2e8015332b00933d38",
+    "firstName": "Sandra",
+    "lastName": "Dallago",
+    "fullName": "Sandra Dallago",
+    "birthDate": "1941-03-08T00:00:00.000Z",
+    "deathDate": "2022-03-14T00:00:00.000Z",
+    "location": "of Buffalo",
+    "slug": "sandra-dallago-6956cd2e8015332b00933d38"
+  },
+  {
+    "_id": "6956cd2e8015332b00933d37",
+    "firstName": "Leone",
+    "lastName": "Moncur",
+    "fullName": "Leone Moncur",
+    "birthDate": "1935-11-29T00:00:00.000Z",
+    "deathDate": "2022-03-10T00:00:00.000Z",
+    "location": "in Deadwood",
+    "slug": "leone-moncur-6956cd2e8015332b00933d37"
+  }
+]

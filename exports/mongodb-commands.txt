@@ -1,0 +1,9 @@
+// Copy these commands to use in MongoDB shell
+
+use test
+
+// Get specific obituary:
+db.obituaries.findOne({_id: ObjectId("6956cd478015332b00933dd5")})
+
+// Get all obituary IDs:
+db.obituaries.find({}, {_id: 1, firstName: 1, lastName: 1})
