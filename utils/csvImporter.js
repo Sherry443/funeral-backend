@@ -4,7 +4,7 @@
 const fs = require('fs');
 const csv = require('csv-parser');
 const mongoose = require('mongoose');
-const Obituary = require('../models/Obituary');
+const Obituary = require('../models/obituary');
 const slugify = require('slugify');
 
 class CSVImporter {

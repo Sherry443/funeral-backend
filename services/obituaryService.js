@@ -1,7 +1,7 @@
 // ==========================================
 // services/obituaryService.js - FIXED
 // ==========================================
-const Obituary = require('../models/Obituary');
+const Obituary = require('../models/obituary');
 const mongoose = require('mongoose');
 
 class ObituaryService {

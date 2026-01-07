@@ -2,7 +2,7 @@
 // services/condolenceService.js
 // ==========================================
 const Condolence = require('../models/Condolence');
-const Obituary = require('../models/Obituary');
+const Obituary = require('../models/obituary');
 
 class CondolenceService {
     // Get all condolences for a specific obituary

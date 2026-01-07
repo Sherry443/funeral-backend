@@ -7,7 +7,7 @@
 const mongoose = require('mongoose');
 const fs = require('fs');
 const csv = require('csv-parser');
-const Obituary = require('../models/Obituary');
+const Obituary = require('../models/obituary');
 
 const MONGODB_URI = process.env.MONGODB_URI;
 
