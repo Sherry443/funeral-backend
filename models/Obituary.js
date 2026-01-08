@@ -109,4 +109,4 @@ obituarySchema.pre('validate', function (next) {
 // Slug is generated in the importer instead
 // =====================
 
-module.exports = mongoose.model('Obituary', obituarySchema);
+module.exports = mongoose.model('obituary', obituarySchema);
