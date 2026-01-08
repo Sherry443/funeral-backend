@@ -48,7 +48,7 @@ router.use('/cart', cartRoutes);
 router.use('/order', orderRoutes);
 
 // Review routes
-router.use('/review', reviewRoutes);
+// router.use('/review', reviewRoutes);
 
 // Wishlist routes
 router.use('/wishlist', wishlistRoutes);
