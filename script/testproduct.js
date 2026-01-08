@@ -150,7 +150,7 @@ async function createTestProduct() {
 
         console.log('✓ Test product created successfully!');
         console.log('Product ID:', testProduct._id);
-        console.log('Access at: http://localhost:3000/api/product/item/azalea-plant');
+        console.log('Access at: https://funeralbackend.onrender.com/api/product/item/azalea-plant');
 
         return testProduct;
     } catch (error) {
