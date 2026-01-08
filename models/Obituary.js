@@ -1,6 +1,4 @@
-// ==========================================
-// models/Obituary.js - FIXED (No infinite loop)
-// ==========================================
+
 const mongoose = require('mongoose');
 
 const obituarySchema = new mongoose.Schema({
@@ -81,7 +79,7 @@ const obituarySchema = new mongoose.Schema({
     slug: {
         type: String,
         unique: true,
-        sparse: true  // Allows null values, only enforces uniqueness on non-null
+        sparse: true
     },
     isPublished: {
         type: Boolean,
@@ -91,9 +89,6 @@ const obituarySchema = new mongoose.Schema({
     timestamps: true
 });
 
-// =====================
-// Calculate age before validation
-// =====================
 obituarySchema.pre('validate', function (next) {
     if (!this.age && this.birthDate && this.deathDate) {
         const birth = new Date(this.birthDate);
@@ -104,9 +99,4 @@ obituarySchema.pre('validate', function (next) {
     next();
 });
 
-// =====================
-// NO POST-SAVE HOOK
-// Slug is generated in the importer instead
-// =====================
-
-module.exports = mongoose.model('obituary', obituarySchema);
+module.exports = mongoose.model('Obituary', obituarySchema);
