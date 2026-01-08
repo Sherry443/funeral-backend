@@ -22,7 +22,7 @@ app.use(
 );
 app.use(cors());
 app.use('/uploads', express.static('uploads'));
-app.use('/api/obituaries', require('./routes/api/obituaryRoutes'));
+app.use('api/obituaries', require('./routes/api/obituaryRoutes'));
 app.use('/api/tributes', require('./routes/api/tributeRoutes'));
 app.use('/api/condolences', require('./routes/api/condolenceRoutes'));
 
